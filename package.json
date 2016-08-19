@@ -1,0 +1,23 @@
+{
+  "name": "redshift-logparser",
+  "version": "1.0.0",
+  "description": "Parse redshift logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fullscreen/redshift-logparser.git"
+  },
+  "keywords": [
+    "redshift",
+    "parse"
+  ],
+  "author": "Drew Stokes <drew@drewstokes.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fullscreen/redshift-logparser/issues"
+  },
+  "homepage": "https://github.com/Fullscreen/redshift-logparser#readme"
+}
